@@ -6,6 +6,7 @@ activación de componentes del interfaz gráfico según los  requerimientos del 
 Para acceder a la aplicación mediante el login:
 
 USUARIO:    usuario
+
 CONTRASEÑA: 123
 
 El programa en Java está desarrollado con NetBeans.
